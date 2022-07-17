@@ -1,0 +1,82 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "forestry:root": {
+    "criteria": {
+      "tick": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2022-07-17 10:12:37 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-07-17 10:24:41 +1000",
+      "minecraft:mountains": "2022-07-17 16:30:14 +1000",
+      "minecraft:badlands_plateau": "2022-07-17 16:29:34 +1000",
+      "minecraft:taiga": "2022-07-17 10:23:21 +1000",
+      "minecraft:taiga_hills": "2022-07-17 10:24:21 +1000",
+      "minecraft:birch_forest": "2022-07-17 10:24:08 +1000",
+      "minecraft:badlands": "2022-07-17 10:23:53 +1000",
+      "minecraft:beach": "2022-07-17 10:24:40 +1000",
+      "minecraft:dark_forest": "2022-07-17 16:26:58 +1000",
+      "minecraft:river": "2022-07-17 10:24:18 +1000",
+      "minecraft:birch_forest_hills": "2022-07-17 10:24:01 +1000",
+      "minecraft:wooded_mountains": "2022-07-17 16:30:23 +1000",
+      "minecraft:swamp": "2022-07-17 16:26:54 +1000",
+      "minecraft:plains": "2022-07-17 10:23:56 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

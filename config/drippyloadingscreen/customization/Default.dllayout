@@ -1,0 +1,80 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = true
+  backgroundimage = config/drippyloadingscreen/background.png
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+  backgroundcolor = White
+}
+
+customization {
+  x = 1
+  textcolor = 
+  action = editforgestatustext
+  y = -1
+}
+
+customization {
+  x = 4
+  action = editprogressbar
+  y = -159
+}
+
+customization {
+  orientation = loading-progress
+  shadow = false
+  orientation_element = 2c406ff0-81bf-481f-a5d5-4e744d37841e1657986073096
+  x = -550
+  textcolor = #ffffff
+  action = addtext
+  actionid = 6763f5fe-4400-47d5-85a1-ed0d888f41431657984582147
+  y = -202
+  scale = 2.0
+  alignment = left
+  value = WEEEEEEEEEEE %loadingprogress%
+}
+
+customization {
+  orientation = top-left
+  audio_source:51d3924e-ea2f-4430-82e9-e9f39e0636ab1657985096414 = config/drippyloadingscreen/Sounds/bones-breaking-2-35652.ogg;EXTERNAL_LOCAL;80;0
+  channel = master
+  audio_source:542937ac-b005-4d9d-bd4c-f52609b0aa8b1657985114982 = config/drippyloadingscreen/Sounds/bones-breaking-2-35652.ogg;EXTERNAL_LOCAL;80;2
+  audio_source:83c65cb3-ecd8-4a33-996b-dac71be8b5c81657985057128 = config/drippyloadingscreen/Sounds/celery-break-40104.ogg;EXTERNAL_LOCAL;150;1
+  loop = true
+  x = 455
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 2f0d0bc7-bd68-4ce4-8e9a-86bbd957067b1657984742121
+  y = 18
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  x = 339
+  width = 475
+  actionid = 2c406ff0-81bf-481f-a5d5-4e744d37841e1657986073096
+  y = 313
+  action = addcustomprogressbar
+  height = 6
+  direction = right
+  barcolor = #de2f2f
+  backgroundcolor = #5c5c5c80
+}
+
+customization {
+  orientation = loading-progress
+  orientation_element = 2c406ff0-81bf-481f-a5d5-4e744d37841e1657986073096
+  name = bloodnbones
+  x = -16
+  width = 30
+  actionid = 177b5fce-05c1-4528-b5a0-7a3ac624cd921657987009831
+  action = addslideshow
+  y = -13
+  height = 30
+}
+

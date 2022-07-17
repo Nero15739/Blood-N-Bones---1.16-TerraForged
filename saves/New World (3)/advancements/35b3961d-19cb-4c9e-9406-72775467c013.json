@@ -1,0 +1,138 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest_edge": "2022-07-17 15:48:13 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2022-07-17 15:46:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wetland_forest": "2022-07-17 15:49:31 +1000",
+      "redwood_forest_edge": "2022-07-17 15:48:13 +1000",
+      "marsh": "2022-07-17 15:49:10 +1000",
+      "mystic_grove": "2022-07-17 15:48:17 +1000",
+      "redwood_forest": "2022-07-17 15:48:41 +1000",
+      "coniferous_lakes": "2022-07-17 15:48:21 +1000",
+      "seasonal_orchard": "2022-07-17 15:48:40 +1000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-17 15:50:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-07-17 15:47:46 +1000",
+      "minecraft:birch_forest": "2022-07-17 15:46:59 +1000",
+      "minecraft:dark_forest": "2022-07-17 15:46:33 +1000",
+      "minecraft:plains": "2022-07-17 15:48:39 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

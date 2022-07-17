@@ -1,0 +1,35 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2022-07-17 15:38:07 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2022-07-17 15:38:07 +1000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2022-07-17 15:39:31 +1000",
+      "wooded_scrubland": "2022-07-17 15:39:19 +1000",
+      "rainforest_floodplain": "2022-07-17 15:40:15 +1000",
+      "orchard": "2022-07-17 15:38:37 +1000",
+      "dry_boneyard": "2022-07-17 15:39:27 +1000",
+      "redwood_forest": "2022-07-17 15:38:07 +1000",
+      "rainforest": "2022-07-17 15:40:59 +1000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-07-17 15:38:56 +1000",
+      "minecraft:birch_forest": "2022-07-17 15:38:48 +1000",
+      "minecraft:savanna": "2022-07-17 15:39:14 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
