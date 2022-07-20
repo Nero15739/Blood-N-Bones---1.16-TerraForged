@@ -2,7 +2,7 @@
 [general]
 	#Maximum distance a creeper can decide to explode.
 	#Range: 0.0 ~ 2048.0
-	breach_range = 30.0
+	breach_range = 10.0
 	#Maximum Y layer where creepers can spawn with the breaching ability.(Sea level = 62)
 	#Range: 0.0 ~ 255.0
 	maxLayer = 255.0
